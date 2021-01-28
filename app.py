@@ -12,7 +12,7 @@ def insert_markdown_file(filepath):
 
 def app():
 
-  st.title("A very meta Streamlit demo")
+  st.title("My copied example of Streamlit demo")
   
   st.sidebar.markdown("""**GitHub**: [This app](https://github.com/mcullan/streamlit-demo/tree/example-app) / [Template repo](https://github.com/mcullan/streamlit-demo)
 
