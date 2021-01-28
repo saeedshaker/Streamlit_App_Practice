@@ -1,4 +1,4 @@
-# Zero to Streamlit (to Heroku) - Cloned from Michael Cullan's repository
+# Zero to Streamlit (to Heroku)
 
 1. Environment
 2. Write/run app.py
