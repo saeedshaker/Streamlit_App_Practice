@@ -1,4 +1,4 @@
-# Zero to Streamlit (to Heroku)
+# Zero to Streamlit (to Heroku) - Cloned from Michael Cullan's repo
 
 1. Environment
 2. Write/run app.py
@@ -6,7 +6,7 @@
 
 ### An example app
 
-For a more developed example (and a Streamlit tutorial), take a look at the `example-app` branch of this repository. This branch contains a built-out `app.py`. It's also deployed on [Heroku](https://streamlit-tutorial-app.herokuapp.com/).
+For a more developed example (and a Streamlit tutorial), take a look at the `example-app` branch of this repository. This branch contains a built-out `app.py`. It's also deployed on [Heroku](https://streamlit-example1.herokuapp.com/).
 
 ## Environment
 
