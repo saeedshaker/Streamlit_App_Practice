@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-import multiprocessing
+import os
 
 def insert_markdown_file(filepath):
   '''filepath might be something like markdown-01.md'''
@@ -15,7 +15,7 @@ def app():
 
   st.title("My NEW NEW copied example of Streamlit demo")
   
-  st.write(multiprocessing.cpu_count())
+  st.write(os.cpu_count())
   
   st.sidebar.markdown("""**GitHub**: [This app](https://github.com/mcullan/streamlit-demo/tree/example-app) / [Template repo](https://github.com/mcullan/streamlit-demo)
 
